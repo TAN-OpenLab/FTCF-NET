@@ -2,7 +2,7 @@
 
 ## Introduction
 
-​    Aiming at the problem of violent video detection, we propose a FTCF-Block which can fuse local spatial and full temporal features, and propose a FTCF-Net architecture based on FTCF-Block for violent video prediction.
+​Aiming at the problem of violent video detection, we propose a FTCF-Block which can fuse local spatial and full temporal features, and propose a FTCF-Net architecture based on FTCF-Block for violent video prediction.
 
 ## Dependency Package
 
@@ -28,7 +28,7 @@ tensorflow-gpu 2.1.0
 
 ## Dataset
 
-​    We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movie.
+​We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movie.
 
 Video capture process we take the following program：
 
@@ -36,7 +36,7 @@ Video capture process we take the following program：
 2. Padding for the video whose aspect ratio of video frame is too large.
 3. In a video, random starting point is used to extract 30 consecutive frames, and then odd frames are extracted to form 15 consecutive video frames.
 
-    In addition, you can download the original video data set through the following connection：
+In addition, you can download the original video data set through the following connection：
 1. RLVS：https://www.kaggle.com/mohamedmustafa/real-life-violence-situations-dataset
 2. Hockey Fight：https://academictorrents.com/details/38d9ed996a5a75a039b84cf8a137be794e7cee89/tech&hit=1&filelist=1
 3. Movies Fight：https://academictorrents.com/details/70e0794e2292fc051a13f05ea6f5b6c16f3d3635
@@ -44,7 +44,7 @@ Video capture process we take the following program：
 
 ## Pre-Trained Weights for FTCF-Net
 
-​    Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hockey Fight, Violent Flow and Movies Fight datasets respectively. The model parameters with the best results can be obtained through the following links.(http://mirror.neu.edu.cn/tanOpenLab/)
+​Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hockey Fight, Violent Flow and Movies Fight datasets respectively. The model parameters with the best results can be obtained through the following links.(http://mirror.neu.edu.cn/tanOpenLab/)
 
 
 
