@@ -28,7 +28,7 @@ tensorflow-gpu 2.1.0
 
 ## Dataset
 
-​We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movie.
+​We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movies Fight.
 
 Video capture process we take the following program：
 
