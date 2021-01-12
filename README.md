@@ -30,6 +30,7 @@ tensorflow-gpu 2.1.0
 
 ​We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movies Fight.
 
+
 Video capture process we take the following program：
 
 1. A video data sample is used to extract a continuous video frame sample.
@@ -47,7 +48,7 @@ In addition, you can download the original video data set through the following 
 ​Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hockey Fight, Violent Flow and Movies Fight datasets respectively. The model parameters with the best results can be obtained through the following links.(http://mirror.neu.edu.cn/tanOpenLab/)
 
 
-
+**Related code of this version is designed by Peng-fei Wang under supervision of Prof. Zhenhua Tan.**
 
 
 
