@@ -22,6 +22,10 @@ tensorflow-gpu 2.1.0
 
 **validating.py** is to evaluate on the testing set.
 
+## FTCF Block
+
+![图片 1](./utils/ftcf-block.png)
+
 ## Dataset
 
 We have uploaded the preprocessed video frames dataset at (http://mirror.neu.edu.cn/tanOpenLab/) for you to download. It includes Real Life Violence Situations, Hockey Fight, Violent Flow and Movies Fight.
