@@ -4,6 +4,9 @@
 
 Aiming at the problem of violent video detection, we propose a FTCF-Block which can fuse local spatial and full temporal features, and propose a FTCF-Net architecture based on FTCF-Block for violent video prediction.
 
+## Demo for FTCF-NET
+[![IMAGE ALT TEXT](./pics/video-demo-cut.png)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
+
 ## Dependency Package
 
 python 3.7
@@ -50,6 +53,3 @@ Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hocke
 
 **Related code of this version is designed by anonymous-1, anonymous-2.**  
 **XXXXXXXXXXXXXXXXXXXXXXXXXXXX.**
-
-
-[![IMAGE ALT TEXT](./pics/ftcf-block.png)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
