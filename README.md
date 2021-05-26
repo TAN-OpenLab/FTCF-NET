@@ -52,4 +52,4 @@ Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hocke
 **XXXXXXXXXXXXXXXXXXXXXXXXXXXX.**
 
 
-[![IMAGE ALT TEXT](https://www.bilibili.com/video/BV1uA41137u2/0.jpg)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
+[![IMAGE ALT TEXT](./pics/ftcf-block.png)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
