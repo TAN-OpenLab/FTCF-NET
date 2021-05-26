@@ -24,7 +24,7 @@ tensorflow-gpu 2.1.0
 
 ## FTCF Block
 
-![图片 1](./utils/ftcf-block.png)
+![图片 1](./pics/ftcf-block.png)
 
 ## Dataset
 
