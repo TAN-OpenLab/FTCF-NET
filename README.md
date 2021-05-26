@@ -5,7 +5,7 @@
 Aiming at the problem of violent video detection, we propose a FTCF-Block which can fuse local spatial and full temporal features, and propose a FTCF-Net architecture based on FTCF-Block for violent video prediction.
 
 ## Demo for FTCF-NET
-[![IMAGE ALT TEXT](./pics/video-demo-cut.png/w/520)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
+[![IMAGE ALT TEXT](./pics/video-demo-cut.png)](https://www.bilibili.com/video/BV1uA41137u2/ "video demo")
 
 ## Dependency Package
 
