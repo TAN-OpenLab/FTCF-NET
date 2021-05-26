@@ -4,7 +4,7 @@ from tensorflow.keras.layers import Dense, Conv3D, AveragePooling3D, Dropout, co
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.applications import Xception
 
-from network.FTCF_Block import FTCF_Block
+from network.FTCF_Block import FTCF_Block, FTCF_SP_Block, FTCF_TP_Block, FTCF_TP_Simple
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
 

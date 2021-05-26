@@ -147,7 +147,6 @@ class ResNet_3D_Model(tf.keras.Model):
         x = self.bn_6(origin_x, training=training)
         x = self.activation_6(x)
         x = self.globalavgpooling3d_6(x)
-        # tf.print(tf.shape(x))
 
         x = self.dense_6(x)
 
