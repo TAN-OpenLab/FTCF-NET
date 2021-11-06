@@ -51,9 +51,12 @@ In addition, you can download the original video data set through the following 
 
 ## Pre-Trained Weights for FTCF-Net
 
-Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hockey Fight, Violent Flow and Movies Fight datasets respectively. The model parameters with the best results can be obtained through the following links.(http://mirror.×××××.edu.cn/×××OpenLab/   ***WILL OPEN AFTER REVIEW)
+Our FTCF-Net achieves 98.50%, 99.50%, 98.00% and 100.00% accuracy on RLVS, Hockey Fight, Violent Flow and Movies Fight datasets respectively. The model parameters with the best results can be obtained through the following links.(http://mirror.***.edu.cn/TanOpenLab/   ***WILL OPEN AFTER REVIEW)
 
 **Related design of this version is contributed by Zhenhua Tan, Pengfei Wang.
+
 **Related codes of this version are contributed by Pengfei Wang, Zhenche Xia, and Zhenhua Tan.  
+
 **Team Tutor: Zhenhua Tan
+
 ****
